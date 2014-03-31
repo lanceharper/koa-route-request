@@ -1,0 +1,19 @@
+{
+  "name": "koa-fun",
+  "version": "0.0.0",
+  "description": "koa fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "lanceharper",
+  "license": "MIT",
+  "dependencies": {
+    "co-request":"^0.2.0",
+    "co-views": "^0.1.0",
+    "koa": "^0.5.0",
+    "koa-compose": "^2.1.0",
+    "koa-route": "^1.0.2",
+    "swig": "^1.2.2"
+  }
+}
